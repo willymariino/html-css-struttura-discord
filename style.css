@@ -39,3 +39,8 @@ nav {
     border: 1px dotted black;
     display: inline-block;
 }
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
