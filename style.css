@@ -1,13 +1,41 @@
-nav {
-    height: 30px;
-    width: 100%;
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+header {
+
+    height: 40px;
     background-color: #add8e6;
 
 }
 
+nav {
+    width: 800px;
+    height: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #dca61f;
+    margin: 0 auto;
+}
+
 .logo {
-    padding: auto;
-    height: 9px;
-    width: 50%;
-    background-color: yellow;
+    width: 200px;
+    border: 1px dotted black;
+    display: inline-block;
+}
+
+.link {
+    width: 300px;
+    border: 1px dotted black;
+    display: inline-block;
+}
+
+.login {
+    width: 200px;
+    border: 1px dotted black;
+    display: inline-block;
 }
