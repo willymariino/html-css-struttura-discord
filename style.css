@@ -1,8 +1,12 @@
 nav {
     height: 14px;
-    width: 335px;
+    width: 100%;
     background-color: #add8e6;
 
 }
 
-.logo {}
+.logo {
+    height: 9px;
+    width: 50%;
+    background-color: yellow;
+}
