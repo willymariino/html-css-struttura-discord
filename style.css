@@ -44,3 +44,12 @@ nav {
     width: 800px;
     margin: 0 auto;
 }
+
+main>section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-azure {
+    background-color: azure;
+}
