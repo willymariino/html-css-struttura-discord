@@ -50,6 +50,15 @@ main>section {
     padding-bottom: 30px;
 }
 
+/* impostazioni della grandezza dei background delle section bianco-grige */
+
+section {
+    height: 500px;
+    padding: 60px;
+}
+
+/* impostazioni della grandezza dei background delle section bianco-grige */
+
 .bg-azure {
     background-color: azure;
 }
@@ -57,6 +66,8 @@ main>section {
 .bg-white {
     background-color: white;
 }
+
+/* sezione quadrante blu-viola  */
 
 .bg-blue {
     background-color: blue;
@@ -71,6 +82,8 @@ main>section {
     height: 100%;
     margin: 0 auto;
 }
+
+/* sezione quadrante blu-viola */
 
 .bg-gray {
     background-color: gray;
