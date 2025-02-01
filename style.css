@@ -67,23 +67,34 @@ section {
     background-color: white;
 }
 
-/* sezione quadrante blu-viola  */
+/*sezione primo quadrante rosa dentro blu  */
 
 .bg-blue {
-    background-color: blue;
+    background-color: #00008b;
     height: 600px;
     padding: 60px;
 
 }
 
-.container-blue {
-    background-color: violet;
+.container-pink {
+    background-color: #ee82ee;
     width: 50%;
     height: 100%;
     margin: 0 auto;
 }
 
-/* sezione quadrante blu-viola */
+/* sezione sezione primo quadrante rosa dentro blu*/
+
+.blue-square {
+    width: 70%;
+    background-color: #1e90ff;
+}
+
+.pink-rectangle {
+    width: 30%;
+    background-color: ;
+    background-color: #ffc0cb;
+}
 
 .bg-gray {
     background-color: gray;
