@@ -85,12 +85,21 @@ section {
 
 /* sezione sezione primo quadrante rosa dentro blu*/
 
+.container {
+    display: flex;
+}
+
+
 .blue-square {
+
+    height: 400px;
     width: 70%;
     background-color: #1e90ff;
 }
 
 .pink-rectangle {
+
+    height: 400px;
     width: 30%;
     background-color: ;
     background-color: #ffc0cb;
