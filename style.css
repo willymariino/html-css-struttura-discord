@@ -53,3 +53,37 @@ main>section {
 .bg-azure {
     background-color: azure;
 }
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-blue {
+    background-color: blue;
+    height: 600px;
+    padding: 60px;
+
+}
+
+.container-blue {
+    background-color: violet;
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+
+
+/* DA RIMUOVERE DOPO SVILUPPO */
+.debug main section .row {
+    height: 300px;
+    background-color: blueviolet;
+}
