@@ -107,6 +107,13 @@ section {
 
 /* impostazioni quadrato blu e rettangolo rosa */
 
+.container-green {
+    background-color: #228b22;
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+}
+
 .bg-gray {
     background-color: gray;
 }
