@@ -89,7 +89,7 @@ section {
     display: flex;
 }
 
-
+/* impostazioni quadrato blu e rettangolo rosa */
 .blue-square {
 
     height: 400px;
@@ -104,6 +104,8 @@ section {
     background-color: ;
     background-color: #ffc0cb;
 }
+
+/* impostazioni quadrato blu e rettangolo rosa */
 
 .bg-gray {
     background-color: gray;
